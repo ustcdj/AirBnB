@@ -9,7 +9,7 @@
 
 ## Installation
 
-The code was developed using the Anaconda distribution of Python, versions 3.8.1 Python libraries used are `numpy`, `pandas`, `datetime`, `matplotlib`, `seaborn`, `sklearn`, `random`, `re`.
+The code was developed using the Anaconda distribution of Python, versions 3.8.1. Python libraries used are `numpy`, `pandas`, `datetime`, `matplotlib`, `seaborn`, `sklearn`, `random`, `re`.
 
 ## Background
 
@@ -31,6 +31,8 @@ There are 5 notebooks available here to showcase work related to the above quest
 3. [`03 dataprep_seattle.ipynb`](03 dataprep_seattle.ipynb): prepare Seattle data, including the handling of , data type conversions, categorical variables and missing data, to answer Q2-Q3
 4. [`04 superhost_vs_regular_host.ipynb`](04 superhost_vs_regular_host.ipynb): compare superhost vs regular host in both Boston and Seattle, to anwer Q2
 5. [`05 modeling_boston_seattle.ipynb`](05 modeling_boston_seattle.ipynb): train regression model and use the trained model to answer Q3
+
+The `results` folder has processed data for Boston and Seattle, which will be imported for data analysis. The `feat_info.csv` file has necessary actions for each independent variable during the data preparation step. 
 
 Markdown cells in each notebook were used to assist in walking through the thought process for individual steps.
 
