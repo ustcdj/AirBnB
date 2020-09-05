@@ -38,7 +38,7 @@ The Seattle and Boston Airbnb datasets are from Kaggle. The Seattle dataset has 
 
 Within the same period (Sep 6, 2016 to Jan 2, 2017), daily average listing price is higher in Boston ($191) than in Seattle ($136).
 
-<img src="images/average_price_by_month.jpg" width=650> </br>
+<img src="images/average_price_by_month.jpg" width=750> </br>
 
 Daily average listing price in both Seattle and Boston shows a strong seasonal pattern:
 - relatively low at the beginning of the year
